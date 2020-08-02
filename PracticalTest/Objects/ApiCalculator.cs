@@ -1,7 +1,8 @@
 ﻿using System.Configuration;
 using System.Net;
 using Newtonsoft.Json;
-using PracticalTest.Common;
+using PracticalTest.Common.Api;
+using PracticalTest.Common.Common;
 using PracticalTest.Interfaces;
 using PracticalTest.Models;
 using RestSharp;

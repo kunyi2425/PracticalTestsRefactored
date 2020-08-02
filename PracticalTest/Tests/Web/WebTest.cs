@@ -1,6 +1,5 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using OpenQA.Selenium;
-using PracticalTest.Common;
 using PracticalTest.Interfaces;
 using PracticalTest.Objects;
 

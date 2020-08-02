@@ -1,7 +1,6 @@
 ﻿using System.Net;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using Newtonsoft.Json;
-using PracticalTest.Common;
 using PracticalTest.Objects;
 
 namespace PracticalTest.Tests.Api

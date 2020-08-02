@@ -2,8 +2,9 @@
 using OpenQA.Selenium.Chrome;
 using OpenQA.Selenium.Firefox;
 using OpenQA.Selenium.IE;
+using PracticalTest.Common.Common;
 
-namespace PracticalTest.Common
+namespace PracticalTest.Common.Web
 {
     public static class DriverInitializer
     {

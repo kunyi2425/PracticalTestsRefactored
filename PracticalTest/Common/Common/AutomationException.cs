@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PracticalTest.Common
+namespace PracticalTest.Common.Common
 {    
     public sealed class AutomationException : Exception
     {

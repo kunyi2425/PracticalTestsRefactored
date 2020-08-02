@@ -1,8 +1,9 @@
 ﻿using System;
 using NLog;
+using PracticalTest.Common.Common;
 using RestSharp;
 
-namespace PracticalTest.Common
+namespace PracticalTest.Common.Api
 {
     public abstract class CommonApiBase
     {

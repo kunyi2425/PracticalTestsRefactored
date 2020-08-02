@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using PracticalTest.Common;
+using PracticalTest.Common.Common;
 using PracticalTest.Interfaces;
 using PracticalTest.Objects;
 

@@ -2,6 +2,6 @@
 <RunSettings>
   <!-- Parameters used by tests at runtime -->
   <TestRunParameters>
-    <Parameter name="Browser" value="ie" />
+    <Parameter name="Browser" value="chrome" />
   </TestRunParameters>
 </RunSettings>

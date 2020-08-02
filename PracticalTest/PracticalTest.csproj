@@ -80,11 +80,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Common\AutomationException.cs" />
-    <Compile Include="Common\CommonApiBase.cs" />
-    <Compile Include="Common\CommonWebBase.cs" />
-    <Compile Include="Common\DriverInitializer.cs" />
-    <Compile Include="Common\TestBase.cs" />
+    <Compile Include="Common\Common\AutomationException.cs" />
+    <Compile Include="Common\Api\CommonApiBase.cs" />
+    <Compile Include="Common\Web\DriverInitializer.cs" />
+    <Compile Include="Common\Web\WebElements\Button.cs" />
+    <Compile Include="Common\Web\WebElements\CommonWebElement.cs" />
+    <Compile Include="Common\Web\WebElements\DropDown.cs" />
+    <Compile Include="Common\Web\WebElements\Textbox.cs" />
+    <Compile Include="Tests\TestBase.cs" />
     <Compile Include="Interfaces\ICalculator.cs" />
     <Compile Include="Models\ApiCalculatorRequest.cs" />
     <Compile Include="Models\ApiCalculatorResponse.cs" />

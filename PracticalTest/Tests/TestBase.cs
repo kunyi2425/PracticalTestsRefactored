@@ -3,8 +3,10 @@ using System.Configuration;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NLog;
 using OpenQA.Selenium;
+using PracticalTest.Common;
+using PracticalTest.Common.Web;
 
-namespace PracticalTest.Common
+namespace PracticalTest.Tests
 {
     public class TestBase
     {
